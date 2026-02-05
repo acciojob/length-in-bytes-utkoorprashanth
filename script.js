@@ -6,6 +6,7 @@ const byteSize = (str) => {
   
   // Return the size property, which gives the byte length
   return blob.size;
+		
 }
 
 };
